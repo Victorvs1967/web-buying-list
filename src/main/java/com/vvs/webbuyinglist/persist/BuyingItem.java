@@ -1,4 +1,4 @@
-package com.vvs.buyinglist.persist;
+package com.vvs.webbuyinglist.persist;
 
 import javax.persistence.*;
 

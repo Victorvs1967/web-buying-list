@@ -13,6 +13,7 @@
         <div class="container">
             <form method="post" th:action="@{/}" th:object="${item}">
                 <div class="input-group mb-3 mt-3">
+
                     <input type="text" th:field="*{name}" class="form-control" placeholder="Название новой покупки" aria-label="Название новой покупки" aria-describedby="basic-addon2">
                     <div class="input-group-append">
                         <button class="btn btn-outline-primary" type="submit">Добавить</button>

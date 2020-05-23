@@ -1,7 +1,7 @@
-package com.vvs.buyinglist.controller;
+package com.vvs.webbuyinglist.controller;
 
-import com.vvs.buyinglist.persist.BuyingItem;
-import com.vvs.buyinglist.persist.BuyingItemRepository;
+import com.vvs.webbuyinglist.persist.BuyingItem;
+import com.vvs.webbuyinglist.persist.BuyingItemRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;

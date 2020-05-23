@@ -1,4 +1,4 @@
-package com.vvs.buyinglist.persist;
+package com.vvs.webbuyinglist.persist;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
